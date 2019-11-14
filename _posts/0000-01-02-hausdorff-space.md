@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to MY New slide!"
 ---
-"Something New"
+"Something New for YOU" :tada:
 Use the left arrow to go back!
